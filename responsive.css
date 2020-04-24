@@ -118,9 +118,9 @@
 
 /* ****************************** */
 
-@media (min-width: 401px) and (max-width: 768px){
+@media (min-width: 401px) and (max-width: 800px){
 	.wrap{ 
-		max-width: 768px;
+		max-width: 800px;
 		width: 100%;
 		height: 63vw;
 		background-image: url(img/background-tablet.png);
@@ -129,21 +129,21 @@
 	}
 
 	 .wrap__shadow{
-		max-width: 768px;
+		max-width: 800px;
 		width: 100%;
 		height: 485px;
 		background-image: none; 
 	} 
 
 	.back_shadow{
-	    max-width: 768px;
+	    max-width: 800px;
 	    width: 100%;
 		height: 458px;
 		background-image: none; 
 	}
 
 	.wrap__inner {
-		max-width: 768px;
+		max-width: 800px;
 		width: 100%;
 	}
 
@@ -249,13 +249,13 @@
 /* ****************************** */
 
 
-@media (min-width: 769px) and (max-width: 829px){
+@media (min-width: 801px) and (max-width: 829px){
 	.wrap__shadow {
 		display: none;
 	} 
 
 	.wrap__content {
-		left: 24%;
+		left: 27%;
 		transition-duration: 1s;
 	}
 	.cover-title{
@@ -291,7 +291,7 @@
 		top: 370px;
 		left: 200px;
 	}
-}
+} 
 
 
 /* ****************************** */
@@ -302,7 +302,7 @@
 	} 
 
 	.wrap__content {
-		left: 27%;
+		left: 29%;
 		transition-duration: 1s;
 	}
 
